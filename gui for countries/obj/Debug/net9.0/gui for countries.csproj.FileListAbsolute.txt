@@ -1,0 +1,4 @@
+C:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0\gui for countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0\gui for countries.AssemblyInfoInputs.cache
+C:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0\gui for countries.AssemblyInfo.cs
+C:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0\gui for countries.csproj.CoreCompileInputs.cache

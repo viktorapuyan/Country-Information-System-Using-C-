@@ -1,0 +1,15 @@
+c:\Users\Apuyan\angelo\gui for countries\bin\Debug\net9.0-windows\gui for countries.exe
+c:\Users\Apuyan\angelo\gui for countries\bin\Debug\net9.0-windows\gui for countries.deps.json
+c:\Users\Apuyan\angelo\gui for countries\bin\Debug\net9.0-windows\gui for countries.runtimeconfig.json
+c:\Users\Apuyan\angelo\gui for countries\bin\Debug\net9.0-windows\gui for countries.dll
+c:\Users\Apuyan\angelo\gui for countries\bin\Debug\net9.0-windows\gui for countries.pdb
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\gui for countries.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\gui for countries.AssemblyInfoInputs.cache
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\gui for countries.AssemblyInfo.cs
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\gui for countries.csproj.CoreCompileInputs.cache
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\gui for countries.dll
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\refint\gui for countries.dll
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\gui for countries.pdb
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\gui for countries.genruntimeconfig.cache
+c:\Users\Apuyan\angelo\gui for countries\obj\Debug\net9.0-windows\ref\gui for countries.dll
+C:\Users\Apuyan\angelo\gui for countries\bin\Debug\net9.0-windows\countries_by_continent.json
